@@ -14,7 +14,8 @@ namespace Git_Demo
             GitDemoClass gitDemoClass = new GitDemoClass();
             gitDemoClass.Demo();
             EmpWage.GetAttendenceint();
-            Console.ReadLine();
+            EmployeeAttendence.GetAttendence();
+                Console.ReadLine();
         }
     }
 }
