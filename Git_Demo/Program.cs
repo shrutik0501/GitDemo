@@ -13,6 +13,7 @@ namespace Git_Demo
            // UC1
             GitDemoClass gitDemoClass = new GitDemoClass();
             gitDemoClass.Demo();
+            EmpWage.GetAttendenceint();
             Console.ReadLine();
         }
     }
